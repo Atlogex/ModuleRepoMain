@@ -1,3 +1,6 @@
 [submodule "submods"]
 	path = submods
 	url = https://github.com/Atlogex/ModuleRepoSub.git
+[submodule "submods_private"]
+	path = submods_private
+	url = https://github.com/Atlogex/ModuleRepoSubPrivate.git
